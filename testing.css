@@ -1,0 +1,59 @@
+header{
+   background-color: purple; 
+}
+footer{
+    background-color: red;
+
+}
+nav{
+    color: red;
+    text-align: center;
+
+
+}
+h6{
+    text-align: center;
+    color: white;
+
+}img{
+    margin:40pxs ;
+
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    font: size 20px;
+    color:blueviolet;
+
+
+}
+button{
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 5px;
+
+}
+#gold{
+    background-color:rgba(182, 3, 41,0.9);
+    color:rgb(255, 127, 130);
+}
+#silver{
+    color:hsl(250, 50%, 50%);
+    background-color: hsla(240, 40%, 60%,0.9);
+
+
+}
+#lateness{
+    color: #aa3c99;
+    background-color: #a5f4e2;
+
+}
+#ceo{
+    color: blue;
+
+}
+
+
+
+
